@@ -5,4 +5,6 @@ I am learning git and git hub using my phone.
 
 - Git
 - GitHub
+# my goal 
+
 my goal is good at git and git hub.
