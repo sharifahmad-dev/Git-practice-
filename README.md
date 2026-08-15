@@ -7,4 +7,4 @@ I am learning git and git hub using my phone.
 - GitHub
 # my goal 
 
-my goal is good at git and git hub.
+my goal is become good at git and git hub.
